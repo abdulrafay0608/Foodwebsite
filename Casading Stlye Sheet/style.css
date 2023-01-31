@@ -1,0 +1,42 @@
+.image{
+    margin-top: 70px;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+.top_margin{
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+.margin{
+    margin-top: 100px !important;
+}
+.size{
+    height: 480px !important;
+    width: 100%;
+}
+.top_resturants{
+    background-color: #ccc;
+    font-family:monospace;
+}
+.card-title{
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
+.card-img-top{
+    height: 200px;
+}
+.card{
+    background-color: whitesmoke !important;
+    
+}
+/*about*/
+.About{
+    background-color: lemonchiffon;
+}
+.Contact{
+    background-color: lemonchiffon ;
+}
+/*contact*/
+.contact_input{
+    width: 60%;
+}
